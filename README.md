@@ -23,6 +23,12 @@ The app is designed for **animation teams, YouTubers, storytellers, and producti
 
 ---
 
+<p align="center">
+  <img src="screens/T2V-Screens.gif" width="800" alt="App Demo">
+</p>
+
+---
+
 # 📜 Usage Terms & Licensing
 
 ### This project is intended for personal and individual use only. 
